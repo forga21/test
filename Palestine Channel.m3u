@@ -1,0 +1,62 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", [Palestine] Palestine
+http://htvpalsat.mada.ps:8888/PBC/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", [Palestine] Palestine live
+http://htvpalsat.mada.ps:8888/PBCLive/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", [Palestine] Palestine today
+https://live.paltodaytv.com/paltv/live/chunklist_w766400624.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", [Palestine] Palestine alquds today
+http://185.5.222.146:8081/live/habbq18/chunks.m3u8?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", [Palestine] RAJEEN TV
+https://mn-nl.mncdn.com/palabroad/live/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", [Palestine] MAANNE
+http://htvmada.mada.ps:8888/maannews/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", [Palestine] Musawa
+http://htvpalsat.mada.ps:8888/musawa/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", [Palestine] Hala
+https://gstream4.panet.co.il/edge/halaTV/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", [Palestine] AJYAL
+http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", [Palestine] ALNAJAH
+https://streaming.najah.edu:8443/hls/AlNajah_mid/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", [Palestine] Awdah TV
+http://htvpalsat.mada.ps:8888/audeh/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", [Palestine] Wattan
+http://217.21.0.15:8081/WattanHD/WattanHD/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", [Palestine] Alhorreya 2
+http://vstream3.hadara.ps:8081/hrHD_web/web/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", [Palestine] PNN NEWS
+http://217.21.0.15:8081/pnn/pnn/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", [Palestine] MAKAN
+https://kanlivep2event-i.akamaihd.net/hls/live/747613/747613/source1_1.8k/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", [Palestine] ORIENT
+http://htvint.mada.ps:8889//orient/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", [Palestine] ALBALAD
+http://streaming.zaytonatube.com:8080/radioalbalad/radioalbalad/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", [Palestine] MARAH
+http://vstream3.hadara.ps:8081/marahFM_web/web/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", [Palestine] NABLUS
+http://htvmada.mada.ps:8888/nabluslive/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", [Palestine] ALFAJER TV 2
+http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/playlist.m3u8
+
